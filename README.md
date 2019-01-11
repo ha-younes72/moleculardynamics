@@ -1,5 +1,5 @@
 # moleculardynamics
-Computational Physics:: Molecular Dynamics ; 
+Computational Physics:: Molecular Dynamics
 Copyright (c) 2015, Y. H. Abdollahi.
 This code has been written to show an example of Molecular Dynamics.
 
